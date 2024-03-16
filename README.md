@@ -12,3 +12,4 @@
 ![z5256268587817_fd21bb79e5d989136623fd3084cd354f](https://github.com/sonvirgo/Mackintosh-Z690-13900KF-RTX3090/assets/10823037/bbe92103-3982-4ba0-87f1-ed3b322b08b7)
 
 
+![Screenshot_20240316-225432](https://github.com/sonvirgo/Mackintosh-Z690-13900KF-RTX3090/assets/10823037/fff0f292-15d7-45b8-a983-4aa44ae53d2e)
