@@ -1,4 +1,4 @@
-# Mackintosh-Z690-13900KF-RTX3090
+# Hackintosh-Z690-13900KF-RTX3090
 
 ![Screenshot_20240316-224827](https://github.com/sonvirgo/Mackintosh-Z690-13900KF-RTX3090/assets/10823037/9e02e3f1-7f68-4343-be3b-a61a4e2d4422)
 
